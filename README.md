@@ -14,6 +14,7 @@ Use magnetic sensing to predict the joint angle on a rolling contact joint based
 | `generate_training_data.py` | Synthetic data generation for training of neural net. |
 | `helper_functions.py` | Core utility functions. |
 | `helper_plotting.py` | Plotting utility functions. |
+| `showcase_pareto_front.py` | Plots the Pareto Front. |
 
 #### 🤖 Machine Learning Pipeline
 * `log_on_event_multiple_times.py`: Data logging utility.
