@@ -6,8 +6,8 @@ Use magnetic sensing to predict the joint angle on a rolling contact joint based
 ### 🐍 Python Scripts
 | File | Description |
 | :--- | :--- |
-| `find_optimal_pymoo.py` | Multi-objective optimization via PyMoo. |
-| `find_optimal_scipy.py` | Optimization routines using SciPy solvers. |
+| `find_optimal_pymoo.py` | Multi-objective optimization using PyMoo and NSGA-II. |
+| `find_optimal_scipy.py` | Single-objective optimization using SciPy. |
 | `visualisation3.py` | 2D visualization of magnetic fields. |
 | `triple_sensor.py` | Plot generation for three sensor setup. |
 | `test_config_robustness_running.py` | Robustness testing. |
